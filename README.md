@@ -39,6 +39,5 @@ Any change in ownership must be agreed upon by all affected founders and updated
 
 ## License
 
-**License:** [MIT / Apache-2.0 / GPL-3.0 / Proprietary / Other]
-
-See [LICENSE](./LICENSE) for the full license terms.
+The license for this project is defined in the [`LICENSE`](./LICENSE) file.
+Project owners are responsible for selecting and maintaining the appropriate license for their project.
