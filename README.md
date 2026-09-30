@@ -2,8 +2,8 @@
 
 > Short description of the project.
 
-**Website:** https://example.com  
-**Original Repository:** https://github.com/username/repository (if applicable)
+**Website:** [example] https://example.com  
+**Original Repository:** [github] https://github.com/username/repository (if applicable)
 
 ## Ownership & Founders Agreement
 
